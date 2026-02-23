@@ -1,4 +1,4 @@
-# 10_Student-Club-Participation-Prediction_202401100400070
+10_Student-Club-Participation-Prediction
 🧠 Student Club Participation Prediction:
   This project uses machine learning to predict whether a student will join a club based on their interest level and available free time. It's a binary classification problem solved using a Random Forest Classifier.
 
